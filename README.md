@@ -1,2 +1,2 @@
-# SinglePageApplication
-Actual project don't delete
+# SinglePageWebsite
+Default
