@@ -1,2 +1,2 @@
 # SinglePageWebsite
-Default
+Default mit Parcel und bootstrap
