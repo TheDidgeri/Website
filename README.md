@@ -1,7 +1,5 @@
 # MultiPageWebsite
-Default mit Parcel und bootstrap
+Youtube:
+https://www.youtube.com/watch?v=eY7qYO7pQSE
 
-Test
-
-  git config --global user.email "you@example.com"
-  git config --global user.name "Your Name"
+Aktuell: 
